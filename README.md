@@ -1,8 +1,3 @@
----
-description: 中国双押大辞典：目录
----
+# 中国双押大辞典
 
-# 目录
-
-* 首字：a
-  * [双字韵脚：a a](a/a-a.md)
+![第 202101-dev 版本](<.gitbook/assets/shuangya-title (1).png>)
