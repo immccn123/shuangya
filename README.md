@@ -1,3 +1,2 @@
-# 中国双押大辞典
-
-![第 202101-dev 版本](<.gitbook/assets/shuangya-title (1).png>)
+# 中国双押大辞典：欢迎
+# [点击开始](first)

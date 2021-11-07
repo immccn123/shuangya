@@ -6,7 +6,7 @@
 
 双押，我想，应该起源于中国的rap。先前的押韵仅仅是在诗歌中。比方说这首《静夜思》。
 
-> ### 静夜思
+> #### 静夜思
 >
 > #### 李白
 >
@@ -26,7 +26,7 @@
 
 押韵愉快。
 
-> ### <mark style="background-color:blue;">****</mark>[<mark style="background-color:blue;">**immccn123**</mark>](https://github.com/immccn123)<mark style="background-color:blue;">****</mark>
+> **immccn123**
 >
 > **2021年11月1日**
 >
