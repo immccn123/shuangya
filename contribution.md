@@ -2,6 +2,8 @@
 
 本书基于Docsify发布，托管于Cloudflare Pages。每次部署耗费四分钟。
 
+Licensed under [CC0 1.0](LICENSE)
+
 ### 贡献步骤
 
 1. fork本仓库；

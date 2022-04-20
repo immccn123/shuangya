@@ -1,4 +1,5 @@
 * [序言](first)
+* [许可证](LICENSE)
 * [贡献](contribution)
 * [贡献者名单](contributers)
 * [凡例](examples)
